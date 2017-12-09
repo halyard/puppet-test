@@ -1,0 +1,12 @@
+{
+  "name": "halyard-test",
+  "version": "0.0.0",
+  "author": "Les Aker",
+  "summary": "Test repo",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-test",
+  "project_page": "https://github.com/halyard/puppet-test",
+  "issues_url": "https://github.com/halyard/puppet-test/issues",
+  "dependencies": [],
+  "operatingsystem_support": []
+}
